@@ -30,3 +30,13 @@
     в конце предыдущей строки необходимо добавить два пробела. Без этого большинство парсеров Markdown не выполняют переход на новую строку.
 
 <a href=[https://rutube.ru/video/3477e6834a3f5c39747cb4893118d794](https://rutube.ru/video/14ec5641d6f7009a4878730227cd5387/?playlist=436015)/
+
+***1. Where am I?***
+
+___2. How did I get here?___
+
+***3. What to do here?***
+
+___4. Where can I get out of here?___
+
+![alt-text](https://upload.wikimedia.org/wikipedia/ru/3/3f/%D0%93%D1%83%D0%B1%D0%BA%D0%B0_%D0%91%D0%BE%D0%B1_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6.png)
